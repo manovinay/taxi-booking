@@ -6,7 +6,6 @@ bvc dbc dsb nbsa
 vcdnb cnbsn
 bdsa bdsa 
 cb zbx bcnbx
-cb cznx cn
 this line leo changes for webhook buids code
 opps! again and again...
 again recall for webhook
